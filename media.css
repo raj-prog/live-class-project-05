@@ -1,0 +1,26 @@
+/* Laptop */
+@media screen and (max-width: 64rem) {
+  .list-item {
+    display: none;
+  }
+
+  .line {
+    display: none;
+  }
+}
+
+/* Tablet */
+@media screen and (max-width: 48rem) {
+  .hero-heading {
+    font-size: 5rem;
+  }
+
+  .hero-description {
+    font-style: 1.5rem;
+    text-align: center;
+  }
+
+  .button-large {
+    font-size: 1.5rem;
+  }
+}

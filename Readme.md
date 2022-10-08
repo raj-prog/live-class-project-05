@@ -4,9 +4,9 @@
 
 ## Topics learned in this project:
 
-- Background image properties
-- Flexbox
-- flex-grow
+- **_Background image properties_**
+- **_Flexbox_**
+- **_flex-grow property_**
 
 ## Time required to complete: 2h
 
